@@ -1,0 +1,109 @@
+.imageviewblog{
+   margin-top: 20px;
+    width: 50%;
+    height:300px;
+    text-align: center;
+    
+}
+.imageblog{
+    text-align: center;
+}
+.content{
+    margin-right: 170px;
+    margin-left:170px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.blogcategroytitle{
+    text-align: center;
+    margin: 20px;
+    color:#78ADA5
+}
+
+.blogcontents{
+    margin-top: 20px;
+    margin-right: 300px;
+    margin-left: 300px;
+text-align: center;
+}
+.reactpaginate{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+/* Styles for pagination container */
+.pagination {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Styles for individual pagination item */
+  .pagination li {
+    display: inline;
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
+  /* Style for active pagination item */
+  .pagination li.active {
+    font-weight: bold;
+  }
+  
+  /* Style for pagination link */
+  .pagination a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  /* Style for pagination link on hover */
+  .pagination a:hover {
+    color: #78ADA5;
+  }
+  
+  .blogtitle{
+    border: 1px solid #C3DCE7 ;
+ text-align: center;
+ margin-left: 3px;
+ padding-top: 2px;
+ padding-bottom: 2px;
+  }
+  .blogcategorytitle{
+    text-align: right;
+  }
+  .imageviewblogcategory{
+    margin-top: 100px;
+    display: flex;
+  justify-content: center;
+    text-align: center;
+  
+    ;
+  }
+  .imageblogcategory{
+    border-radius: 100%
+  }
+  .blogcategoryinformation{
+    text-align: center;
+    margin: 10px;
+  }
+  .blogmaincontents{
+display:flex;
+text-align: center;
+justify-content: center;
+  }
+  .buttonsidebarshow{
+    font-size: 40px;
+  }
+
+  .comments{
+    margin-top: 300px;
+    margin-right: 40px;
+    margin-left: 40px;
+
+  }
+  .formcommentupdate{
+    margin: 90px;
+ 
+ 
+  }
